@@ -1,2 +1,3 @@
 # OTUS_cpp_basic
-Training repository
+
+Первый коммит в тестовый репозиторий test1
