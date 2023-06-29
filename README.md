@@ -1,2 +1,3 @@
 # OTUS_cpp_basic
-Training repository
+
+Репозиторий создан для обучения программированию на CPP в OTUS
